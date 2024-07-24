@@ -16,9 +16,9 @@ This is a simple calculator Android app built using Kotlin and designed using Li
 - Android Studio
 - LinearLayout for UI design
 
-## Screenshots
 
-![Calculator App Screenshot](\C:\Users\THINKPAD\Downloads\done.png)
+## Screenshots
+![AppScreenshot (1)](https://github.com/user-attachments/assets/a1c99496-cf44-4d40-b408-816d3631f342)
 
 ## Contributing
 
